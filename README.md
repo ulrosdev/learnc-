@@ -1,2 +1,2 @@
-# learnc-
+# learncsharp
 Learning C#
